@@ -1,0 +1,7 @@
+{
+  "name": "sample-deathevents",
+  "description": "A sample plugin for using death events, this file is useless look at omegga.plugin.ts",
+  "author": "Aware",
+  "config": {},
+  "commands": []
+}
